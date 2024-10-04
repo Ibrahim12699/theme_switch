@@ -20,7 +20,7 @@ Welcome to the **Theme Switch**, a simple yet elegant solution for managing them
 Take a look at the theme switcher in action:
 
 <p align="center">
-  <img src="https://github.com/Ibrahim12699/dark_mode/blob/ibrahim/screen_shots/theme.gif" alt="Custom Swiper Animation" width="300"/>
+  <img src="https://github.com/Ibrahim12699/theme_switch/blob/master/screen_shots/theme.gif" alt="Custom Swiper Animation" width="300"/>
 </p>
 
 Integrating this widget into your Flutter app is straightforward, ensuring that you can focus on building and enhancing other aspects of your app without hassle.
@@ -30,8 +30,8 @@ Integrating this widget into your Flutter app is straightforward, ensuring that 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/Ibrahim12699/dark_mode/blob/main/screen_shots/dark_.png?raw=true" alt="Dark Mode" width="200"/>
-  <img src="https://github.com/Ibrahim12699/dark_mode/blob/main/screen_shots/light.png?raw=true" alt="Light Mode" width="200"/>
+  <img src="https://github.com/Ibrahim12699/theme_switch/blob/master/screen_shots/dark_.png?raw=true" alt="Dark Mode" width="200"/>
+  <img src="https://github.com/Ibrahim12699/theme_switch/blob/master/screen_shots/light.png?raw=true" alt="Light Mode" width="200"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Integrating this widget into your Flutter app is straightforward, ensuring that 
 ## 👥 Visitors Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/dark_mode/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/theme_switch/count.svg" alt="Visitor Count"/>
 </p>
 
 ---
